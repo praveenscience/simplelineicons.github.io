@@ -62,7 +62,10 @@ Credits
 
 Contributors
 ====
+
 [Check Here](https://github.com/thesabbir/simple-line-icons/graphs/contributors)
+
+![Contributors](https://contrib.rocks/image?repo=simplelineicons/simplelineicons.github.io)
 
 Contributions
 ====
